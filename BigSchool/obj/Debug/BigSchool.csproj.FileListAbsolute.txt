@@ -82,3 +82,7 @@ c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool
 c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.pdb
 c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.InitialModel.resources
 c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.csproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse1.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.CreateTableCourse2.resources
+c:\users\administrator\documents\visual studio 2015\Projects\BigSchool\BigSchool\obj\Debug\BigSchool.Migrations.PopulateCategoryTable.resources
