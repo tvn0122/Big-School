@@ -7,13 +7,14 @@
 
     @using (Html.BeginForm("Create", "Courses"))
     { 
+
     <div class="form-group">
         @Html.LabelFor(m => m.Place)
         @Html.TextBoxFor(m => m.Place, new { @class = "form-control"})
         @Html.ValidationMessageFor(m => m.Place)
 
     </div>
-    <div>
+    <div class="form-group">
         @Html.LabelFor(m=>m.Date)
         @Html.TextBoxFor(m => m.Date, new { @class = "form-control" })
         @Html.ValidationMessageFor(m => m.Date)
@@ -31,5 +32,10 @@
     <button type="submit" value="Save" class="btn btn-danger">Save</button>
 
     }
+@section scripts
+{
+    @Scripts.Render("/bundles/jqueryval");
+    }
+
 
 
