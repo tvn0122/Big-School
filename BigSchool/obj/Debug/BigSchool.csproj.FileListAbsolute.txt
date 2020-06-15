@@ -264,3 +264,12 @@ D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.csproj.CoreCompileInputs.cache
 D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.csproj.CopyComplete
 D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.dll
 D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.pdb
+D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.Migrations.AddNameColumnToApplicationUser.resources
+D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.Migrations.AddAttendance.resources
+D:\AnhTu\Big-School\BigSchool\bin\System.Net.Http.Formatting.dll
+D:\AnhTu\Big-School\BigSchool\bin\System.Web.Http.dll
+D:\AnhTu\Big-School\BigSchool\bin\System.Web.Http.WebHost.dll
+D:\AnhTu\Big-School\BigSchool\bin\System.Net.Http.Formatting.xml
+D:\AnhTu\Big-School\BigSchool\bin\System.Web.Http.xml
+D:\AnhTu\Big-School\BigSchool\bin\System.Web.Http.WebHost.xml
+D:\AnhTu\Big-School\BigSchool\obj\Debug\BigSchool.Migrations.AddFollowingsTable.resources
