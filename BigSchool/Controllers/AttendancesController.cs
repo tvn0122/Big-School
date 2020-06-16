@@ -10,6 +10,7 @@ using System.Web.Http;
 
 namespace BigSchool.Controllers
 {
+    [Authorize]
     public class AttendancesController : ApiController
     {
         private ApplicationDbContext _dbContext;
@@ -18,6 +19,7 @@ namespace BigSchool.Controllers
         {
             _dbContext = new ApplicationDbContext();
         }
+
         [HttpPost]
         public IHttpActionResult Attend(AttendanceDto attendanceDto)
         {
@@ -30,8 +32,10 @@ namespace BigSchool.Controllers
                 CourseId = attendanceDto.CourseId,
                 AttendeeId = userId
             };
+
             _dbContext.Attendances.Add(attendance);
             _dbContext.SaveChanges();
+
             return Ok();
         }
     }
